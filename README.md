@@ -8,6 +8,7 @@ This project involves building an ESP32 hardware monitor that displays PC hardwa
 
 The data is collected via a Windows Form app in C# and then sent to the ESP32 through the serial connection. The PC app can be accessed via the following GitHub link: [Github](https://github.com/llapp0612/ESP-Hardware-Monitor-PC-App)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xE64i9O95Yg" frameborder="0" allowfullscreen></iframe>
-
 A detailed assembly guide for the ESP32 Hardware Monitor will be available soon. Stay tuned for updates!
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/xE64i9O95Yg" frameborder="0" allowfullscreen></iframe>
