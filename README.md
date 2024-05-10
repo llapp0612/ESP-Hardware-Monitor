@@ -22,5 +22,5 @@ A detailed assembly guide for the ESP32 Hardware Monitor will be available soon.
 
 ### Video Demonstration
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xE64i9O95Yg" frameborder="0" allowfullscreen></iframe>
+[Youtube](https://www.youtube.com/embed/xE64i9O95Yg)
 
