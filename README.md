@@ -1,6 +1,4 @@
-# ESP Hardware Monitor
-
-# ESP32 Hardware Monitor for GitHub
+# ESP32 Hardware Monitor
 
 This project involves building an ESP32 hardware monitor that displays PC hardware data on a 3.5-inch touch LCD screen. The monitor utilizes the following components:
 
